@@ -1,0 +1,40 @@
+{
+  "white": 1520000,
+  "draws": 110000,
+  "black": 1370000,
+  "moves": [
+    {
+      "uci": "d2d4",
+      "san": "d4",
+      "averageRating": 1712,
+      "white": 1100000,
+      "draws": 80000,
+      "black": 950000,
+      "game": null,
+      "opening": { "eco": "C00", "name": "French Defense: Normal Variation" }
+    },
+    {
+      "uci": "d2d3",
+      "san": "d3",
+      "averageRating": 1580,
+      "white": 230000,
+      "draws": 15000,
+      "black": 230000,
+      "game": null,
+      "opening": null
+    },
+    {
+      "uci": "g1f3",
+      "san": "Nf3",
+      "averageRating": 1650,
+      "white": 190000,
+      "draws": 15000,
+      "black": 190000,
+      "game": null,
+      "opening": null
+    }
+  ],
+  "topGames": [],
+  "recentGames": [],
+  "opening": { "eco": "C00", "name": "French Defense" }
+}

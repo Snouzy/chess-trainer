@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* biome-ignore lint/correctness/noUnknownTypeSelector: chessground renders its own <coords> element */
+.cg-wrap coords.squares coord {
+  text-transform: none;
+  text-align: right;
+  font-size: clamp(8px, 0.9vw, 10px);
+  font-weight: 600;
+  line-height: 1;
+  padding: 4% 5%;
+  opacity: 0.55;
+}
